@@ -26,11 +26,11 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-rware-warehouse/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-rware-warehouse/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-rware-warehouse/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-rware-warehouse/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
@@ -422,7 +422,7 @@
       "run": [
         "/bin/rware-warehouse-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-rware-warehouse",
+      "source_url": "https://github.com/softmax-universe/cogame-rware-warehouse",
       "env": {
         "PLAYER_SCRIPTED": "courteous"
       },
@@ -445,7 +445,7 @@
       "run": [
         "/bin/rware-warehouse-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-rware-warehouse",
+      "source_url": "https://github.com/softmax-universe/cogame-rware-warehouse",
       "env": {
         "PLAYER_SCRIPTED": "shuttle"
       },
